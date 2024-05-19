@@ -8,3 +8,6 @@ Note: This needs a bot and app token from Slack with appropriate persmissions. I
 To Do:
  - File uploads will be changing, so this will need some rework.
  - Add a way to cancel and delete jobs
+
+Screenshot:
+![demo](slackapp.png)
