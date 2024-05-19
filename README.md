@@ -11,3 +11,7 @@ To Do:
 
 Screenshot:
 ![demo](slackapp.png)
+
+![upload](slackapp_upload_submission.png)
+
+![queue](slackapp_queue_submission.png)
